@@ -6,8 +6,8 @@
 <p>https://public.tableau.com/profile/wessam.alhallak#!/vizhome/LoanInit/ProposalRateStudyandVisualasation </p>
 
 
-<p> the link for the final visualisation is <a href="https://public.tableau.com/profile/wessam.alhallak#!/vizhome/Loan_15539772362130/ProposalRateStudyandvisualisation">Final Visualisation </a> </p>
-<p>https://public.tableau.com/profile/wessam.alhallak#!/vizhome/Loan_15539772362130/ProposalRateStudyandVisualasation</p>
+<p> the link for the final visualisation is <a href="https://public.tableau.com/shared/B5NCJSCQM?:display_count=yes">Final Visualisation </a> </p>
+<p>https://public.tableau.com/shared/B5NCJSCQM?:display_count=yes</p>
 
 
 ### Design:
